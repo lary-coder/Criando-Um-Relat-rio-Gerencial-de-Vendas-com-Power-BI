@@ -5,7 +5,9 @@ Descrição do desafio: Você irá criar um relatório mais elaborado com base n
 
 https://github.com/julianazanelatto/power_bi_analyst
 
-Fiquem atentos a:
+
+
+Fiquem atentos a: 
 
 Estrutura definida 
 
@@ -14,7 +16,10 @@ Botões de navegação que fornecem navegabilidade
 Segmentadores utilizados e botões com imagem associado 
 
 Utilize os indicadores e botões para selecionar diferentes visuais sobre um mesmo assunto 
-Utilize os vídeos de passo a passo para criação dos elementos que compõem a primeira página do relatório:
+
+
+
+Utilize os vídeos de passo a passo para criação dos elementos que compõem a primeira página do relatório: 
 
 Objetos que definem o layout do relatório 
 
@@ -23,8 +28,3 @@ Gráficos (visuais) e os campos que os compõem
 Botões para navegabilidade 
 
 Segmentadores de dados 
-Lembre-se de:
-
-Criar a segunda página do relatório 
-
-Publique o seu relatório no Power BI Service 
