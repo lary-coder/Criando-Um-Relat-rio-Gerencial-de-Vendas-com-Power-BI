@@ -19,6 +19,7 @@ Utilize os indicadores e botões para selecionar diferentes visuais sobre um mes
 
 
 
+
 Utilize os vídeos de passo a passo para criação dos elementos que compõem a primeira página do relatório: 
 
 Objetos que definem o layout do relatório 
